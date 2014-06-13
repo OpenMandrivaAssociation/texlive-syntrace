@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-syntrace
 Version:	1.1
-Release:	6
+Release:	7
 Summary:	Labels for tracing in a syntax tree
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/syntrace

@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Labels for tracing in a syntax tree
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/syntrace
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/syntrace
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/syntrace.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/syntrace.doc.r%{version}.tar.xz
